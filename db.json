@@ -1,0 +1,54 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "nomComplet": "William Dupont",
+      "telephone": "785350836",
+      "dettes": [
+        {"dette_id": 1, "montant": 100.0, "date": "2025-06-01"},
+        {"dette_id": 2, "montant": 50.5, "date": "2025-06-10"},
+        {"dette_id": 3, "montant": 75.0, "date": "2025-06-15"}
+      ]
+    },
+    {
+      "id": 2,
+      "nomComplet": "Robert Martin",
+      "telephone": "771692785",
+      "dettes": [
+        {"dette_id": 4, "montant": 200.0, "date": "2025-06-12"},
+        {"dette_id": 5, "montant": 120.0, "date": "2025-06-13"},
+        {"dette_id": 6, "montant": 80.0, "date": "2025-06-14"}
+      ]
+    },
+    {
+      "id": 3,
+      "nomComplet": "Sophie Bernard",
+      "telephone": "789654123",
+      "dettes": [
+        {"dette_id": 7, "montant": 60.0, "date": "2025-06-05"},
+        {"dette_id": 8, "montant": 90.0, "date": "2025-06-08"},
+        {"dette_id": 9, "montant": 30.0, "date": "2025-06-11"}
+      ]
+    },
+    {
+      "id": 4,
+      "nomComplet": "Julie Petit",
+      "telephone": "765432189",
+      "dettes": [
+        {"dette_id": 10, "montant": 110.0, "date": "2025-06-03"},
+        {"dette_id": 11, "montant": 45.0, "date": "2025-06-09"},
+        {"dette_id": 12, "montant": 95.0, "date": "2025-06-14"}
+      ]
+    },
+    {
+      "id": 5,
+      "nomComplet": "Marc Lefevre",
+      "telephone": "712345678",
+      "dettes": [
+        {"dette_id": 13, "montant": 70.0, "date": "2025-06-02"},
+        {"dette_id": 14, "montant": 85.0, "date": "2025-06-07"},
+        {"dette_id": 15, "montant": 60.0, "date": "2025-06-13"}
+      ]
+    }
+  ]
+}
